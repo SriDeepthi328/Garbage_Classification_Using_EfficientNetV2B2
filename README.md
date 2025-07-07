@@ -3,6 +3,7 @@ A deep learning-based image classification project that automatically identifies
 
 
 **Features:**
+
     1.Advanced CNN: EfficientNetV2B2 for superior performance and faster training.
     
     2.Real-Time Custom Image Prediction: Upload your own images and get accurate predictions.
@@ -15,6 +16,7 @@ A deep learning-based image classification project that automatically identifies
 
     
 **Garbage Categories:**
+
     1.Cardboard
     
     2.Glass
@@ -29,6 +31,7 @@ A deep learning-based image classification project that automatically identifies
 
 
 **Technologies Used**
+
     1.TensorFlow / Keras: Deep Learning Framework
     
     2.EfficientNetV2B2: Pretrained Model
@@ -41,6 +44,7 @@ A deep learning-based image classification project that automatically identifies
 
 
 **Use Cases**
+
     1.Smart Waste Management
     
     2.Automated Trash Sorting Systems
